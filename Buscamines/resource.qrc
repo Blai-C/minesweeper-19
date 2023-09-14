@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/0.png</file>
+        <file>Icons/1.png</file>
+        <file>Icons/2.png</file>
+        <file>Icons/3.png</file>
+        <file>Icons/4.png</file>
+        <file>Icons/bomb.png</file>
+        <file>Icons/bomb_white.png</file>
+        <file>Icons/clinking-glasses.png</file>
+        <file>Icons/freezing-face.png</file>
+        <file>Icons/logo-minesweeper.png</file>
+        <file>Icons/logo-minesweeper_64.png</file>
+        <file>Icons/loose.png</file>
+        <file>Icons/party-face.png</file>
+        <file>Icons/sleeping-face.png</file>
+        <file>Icons/smile.png</file>
+        <file>Icons/smiling-face.png</file>
+        <file>Icons/timeout.png</file>
+        <file>Icons/win.png</file>
+        <file>Icons/wrongflag.png</file>
+    </qresource>
+</RCC>
